@@ -2,10 +2,18 @@ package com.example.artspacegallery.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+// Primary Colors
+val PrimaryDark = Color(0xFFD4AF37) // Nobel Gold (Refined Royal Gold)
+val PrimaryLight = Color(0xFFF6C453) // Lighter Gold (Softer contrast in Light Mode)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+// Secondary Colors
+val SecondaryDark = Color(0xFF2C3E50) // Deep Blue (Nobel Website Branding)
+val SecondaryLight = Color(0xFF3D5A80) // Softer Blue (For Light Mode)
+
+// Background Colors
+val LightBackground = Color(0xFFFDF6E3) // Champagne White (Light Mode Background)
+val DarkBackground = Color(0xFF464543) // Deep Black (Dark Mode Background)
+
+// Surface & Accent Colors
+val SurfaceColor = Color(0xFFE5C07B) // Satin Gold (Card/Surface color)
+val BrightGold = Color(0xFFF1C40F) // Nobel Prize Gold (Strong Accent)

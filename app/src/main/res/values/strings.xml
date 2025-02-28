@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Art Space Gallery</string>
+    <string name="app_title">Noble Prize Winners</string>
+    <string name="person1_name">Nelson Mandela</string>
+    <string name="person1_designation">Anti-Apartheid Revolutionary and Former President of South Africa</string>
+    <string name="person1_contribution">Played a pivotal role in ending apartheid and fostering racial reconciliation in South Africa. Awarded the Nobel Peace Prize in 1993.</string>
+    <string name="person2_name">Maria Salomea Skłodowska-Curie</string>
+    <string name="person2_designation">Physicist and Chemist</string>
+    <string name="person2_contribution">Conducted pioneering research on radioactivity. First woman to win a Nobel Prize and the only person to win in two different scientific fields: Physics (1903) and Chemistry (1911).</string>
+    <string name="person3_name">Alexander Fleming</string>
+    <string name="person3_designation">Bacteriologist and Pharmacologist</string>
+    <string name="person3_contribution">Discovered penicillin in 1928, leading to the development of antibiotics. Awarded the Nobel Prize in Physiology or Medicine in 1945.</string>
+    <string name="person4_name">Martin Luther King Jr.</string>
+    <string name="person4_designation">Civil Rights Leader</string>
+    <string name="person4_contribution">Led the American civil rights movement advocating for nonviolent resistance against racial segregation. Awarded the Nobel Peace Prize in 1964.</string>
 </resources>
